@@ -1,802 +1,2006 @@
 [
     {
-        "Word": "latvia",
+        "Word": "paquistao",
         "Index": 1
     },
     {
-        "Word": "burundi",
+        "Word": "panama",
         "Index": 2
     },
     {
-        "Word": "russia",
+        "Word": "nova zelandia",
         "Index": 3
     },
     {
-        "Word": "mali",
+        "Word": "vietna",
         "Index": 4
     },
     {
-        "Word": "libya",
+        "Word": "polonia",
         "Index": 5
     },
     {
-        "Word": "albania",
+        "Word": "fran\u00e7a",
         "Index": 6
     },
     {
-        "Word": "bermuda",
+        "Word": "china",
         "Index": 7
     },
     {
-        "Word": "malaysia",
+        "Word": "chinguitti",
         "Index": 8
     },
     {
-        "Word": "trinidad and tobago",
+        "Word": "caiena",
         "Index": 9
     },
     {
-        "Word": "eswatini",
+        "Word": "espanha",
         "Index": 10
     },
     {
-        "Word": "kazakhstan",
+        "Word": "san marino",
         "Index": 11
     },
     {
-        "Word": "georgia",
+        "Word": "senegal",
         "Index": 12
     },
     {
-        "Word": "dominica",
+        "Word": "tuvalu",
         "Index": 13
     },
     {
-        "Word": "chile",
+        "Word": "arg\u00e9lia",
         "Index": 14
     },
     {
-        "Word": "antigua and barbuda",
+        "Word": "paquist\u00e3o",
         "Index": 15
     },
     {
-        "Word": "bulgaria",
+        "Word": "litu\u00e2nia",
         "Index": 16
     },
     {
-        "Word": "zambia",
+        "Word": "niu\u00ea",
         "Index": 17
     },
     {
-        "Word": "bolivia",
+        "Word": "andorra",
         "Index": 18
     },
     {
-        "Word": "lithuania",
+        "Word": "n\u00edger",
         "Index": 19
     },
     {
-        "Word": "macedonia",
+        "Word": "rond\u00f4nia",
         "Index": 20
     },
     {
-        "Word": "syria",
+        "Word": "rep\u00fablica democr\u00e1tica do congo",
         "Index": 21
     },
     {
-        "Word": "jamaica",
+        "Word": "esp\u00edrito santo",
         "Index": 22
     },
     {
-        "Word": "gabon",
+        "Word": "equador",
         "Index": 23
     },
     {
-        "Word": "palau",
+        "Word": "austria",
         "Index": 24
     },
     {
-        "Word": "papua new guinea",
+        "Word": "romenia",
         "Index": 25
     },
     {
-        "Word": "dominican republic",
+        "Word": "cabo verde",
         "Index": 26
     },
     {
-        "Word": "morocco",
+        "Word": "egito",
         "Index": 27
     },
     {
-        "Word": "cameroon",
+        "Word": "ohio",
         "Index": 28
     },
     {
-        "Word": "niger",
+        "Word": "belgica",
         "Index": 29
     },
     {
-        "Word": "hungary",
+        "Word": "australia",
         "Index": 30
     },
     {
-        "Word": "ukraine",
+        "Word": "honduras",
         "Index": 31
     },
     {
-        "Word": "belgium",
+        "Word": "ucrania",
         "Index": 32
     },
     {
-        "Word": "china",
+        "Word": "argentina",
         "Index": 33
     },
     {
-        "Word": "canada",
+        "Word": "bolivia",
         "Index": 34
     },
     {
-        "Word": "south africa",
+        "Word": "imperio romano",
         "Index": 35
     },
     {
-        "Word": "solomon islands",
+        "Word": "cazaquist\u00e3o sovietico",
         "Index": 36
     },
     {
-        "Word": "denmark",
+        "Word": "alemanha nazista",
         "Index": 37
     },
     {
-        "Word": "peru",
+        "Word": "azerbaij\u00e3o",
         "Index": 38
     },
     {
-        "Word": "lebanon",
+        "Word": "filipinas",
         "Index": 39
     },
     {
-        "Word": "kiribati",
+        "Word": "suecia",
         "Index": 40
     },
     {
-        "Word": "belize",
+        "Word": "para\u00edba",
         "Index": 41
     },
     {
-        "Word": "costa rica",
+        "Word": "uni\u00e3o europeia",
         "Index": 42
     },
     {
-        "Word": "burkina faso",
+        "Word": "esc\u00f3cia",
         "Index": 43
     },
     {
-        "Word": "central african republic",
+        "Word": "col\u00f4mbia",
         "Index": 44
     },
     {
-        "Word": "saint vincent and the grenadines",
+        "Word": "marrocos",
         "Index": 45
     },
     {
-        "Word": "germany",
+        "Word": "canad\u00e1",
         "Index": 46
     },
     {
-        "Word": "ivory coast",
+        "Word": "piau\u00ed",
         "Index": 47
     },
     {
-        "Word": "cape verde",
+        "Word": "mato grosso",
         "Index": 48
     },
     {
-        "Word": "gambia",
+        "Word": "it\u00e1lia",
         "Index": 49
     },
     {
-        "Word": "italy",
+        "Word": "alemanha",
         "Index": 50
     },
     {
-        "Word": "ireland",
+        "Word": "par\u00e1",
         "Index": 51
     },
     {
-        "Word": "qatar",
+        "Word": "xique xique",
         "Index": 52
     },
     {
-        "Word": "iran",
+        "Word": "sobradinho ii",
         "Index": 53
     },
     {
-        "Word": "uzbekistan",
+        "Word": "dinamarca",
         "Index": 54
     },
     {
-        "Word": "scotland",
+        "Word": "pernambuco",
         "Index": 55
     },
     {
-        "Word": "tunisia",
+        "Word": "distrito federal",
         "Index": 56
     },
     {
-        "Word": "mozambique",
+        "Word": "russia",
         "Index": 57
     },
     {
-        "Word": "argentina",
+        "Word": "israel",
         "Index": 58
     },
     {
-        "Word": "austria",
+        "Word": "mexico",
         "Index": 59
     },
     {
-        "Word": "iraq",
+        "Word": "servia",
         "Index": 60
     },
     {
-        "Word": "mauritius",
+        "Word": "venezuela",
         "Index": 61
     },
     {
-        "Word": "monaco",
+        "Word": "santa l\u00facia",
         "Index": 62
     },
     {
-        "Word": "switzerland",
+        "Word": "afeganist\u00e3o",
         "Index": 63
     },
     {
-        "Word": "uruguay",
+        "Word": "angola",
         "Index": 64
     },
     {
-        "Word": "sri lanka",
+        "Word": "haiti",
         "Index": 65
     },
     {
-        "Word": "senegal",
+        "Word": "coreia do norte",
         "Index": 66
     },
     {
-        "Word": "england",
+        "Word": "austria hungria",
         "Index": 67
     },
     {
-        "Word": "nepal",
+        "Word": "uruguai",
         "Index": 68
     },
     {
-        "Word": "cambodia",
+        "Word": "minas gerais",
         "Index": 69
     },
     {
-        "Word": "samoa",
+        "Word": "imperio holandes",
         "Index": 70
     },
     {
-        "Word": "turkmenistan",
+        "Word": "ashtarak",
         "Index": 71
     },
     {
-        "Word": "equatorial guinea",
+        "Word": "imperio aericano",
         "Index": 72
     },
     {
-        "Word": "jordan",
+        "Word": "suriname",
         "Index": 73
     },
     {
-        "Word": "liberia",
+        "Word": "santa catarina",
         "Index": 74
     },
     {
-        "Word": "indonesia",
+        "Word": "rio de janeiro",
         "Index": 75
     },
     {
-        "Word": "brazil",
+        "Word": "b\u00e9lgica",
         "Index": 76
     },
     {
-        "Word": "maldives",
+        "Word": "el salvador",
         "Index": 77
     },
     {
-        "Word": "timor-leste",
+        "Word": "indon\u00e9sia",
         "Index": 78
     },
     {
-        "Word": "sierra leone",
+        "Word": "canada",
         "Index": 79
     },
     {
-        "Word": "croatia",
+        "Word": "luxemburgo",
         "Index": 80
     },
     {
-        "Word": "kenya",
+        "Word": "turquia",
         "Index": 81
     },
     {
-        "Word": "laos",
+        "Word": "g\u00e2mbia",
         "Index": 82
     },
     {
-        "Word": "congo",
+        "Word": "otan",
         "Index": 83
     },
     {
-        "Word": "netherlands",
+        "Word": "singapura",
         "Index": 84
     },
     {
-        "Word": "malawi",
+        "Word": "nicaragua",
         "Index": 85
     },
     {
-        "Word": "poland",
+        "Word": "uniao europeia",
         "Index": 86
     },
     {
-        "Word": "montenegro",
+        "Word": "grecia",
         "Index": 87
     },
     {
-        "Word": "benin",
+        "Word": "su\u00ed\u00e7a",
         "Index": 88
     },
     {
-        "Word": "brunei",
+        "Word": "nepal",
         "Index": 89
     },
     {
-        "Word": "somalia",
+        "Word": "bahamas",
         "Index": 90
     },
     {
-        "Word": "namibia",
+        "Word": "brasil",
         "Index": 91
     },
     {
-        "Word": "uganda",
+        "Word": "bangladesh",
         "Index": 92
     },
     {
-        "Word": "djibouti",
+        "Word": "siria",
         "Index": 93
     },
     {
-        "Word": "north korea",
+        "Word": "cingapura",
         "Index": 94
     },
     {
-        "Word": "tonga",
+        "Word": "madagascar",
         "Index": 95
     },
     {
-        "Word": "turkey",
+        "Word": "manaus",
         "Index": 96
     },
     {
-        "Word": "ethiopia",
+        "Word": "rubim",
         "Index": 97
     },
     {
-        "Word": "cyprus",
+        "Word": "franca",
         "Index": 98
     },
     {
-        "Word": "angola",
+        "Word": "catar",
         "Index": 99
     },
     {
-        "Word": "lesotho",
+        "Word": "nova zel\u00e2ndia",
         "Index": 100
     },
     {
-        "Word": "moldova",
+        "Word": "mo\u00e7ambique",
         "Index": 101
     },
     {
-        "Word": "nigeria",
+        "Word": "tunisia",
         "Index": 102
     },
     {
-        "Word": "bangladesh",
+        "Word": "kuwait",
         "Index": 103
     },
     {
-        "Word": "vanuatu",
+        "Word": "paraguai",
         "Index": 104
     },
     {
-        "Word": "czech republic",
+        "Word": "panam\u00e1",
         "Index": 105
     },
     {
-        "Word": "romania",
+        "Word": "estados unidos",
         "Index": 106
     },
     {
-        "Word": "tajikistan",
+        "Word": "malawi",
         "Index": 107
     },
     {
-        "Word": "zimbabwe",
+        "Word": "jap\u00e3o",
         "Index": 108
     },
     {
-        "Word": "egypt",
+        "Word": "nigeria",
         "Index": 109
     },
     {
-        "Word": "saint kitts and nevis",
+        "Word": "mal\u00e1sia",
         "Index": 110
     },
     {
-        "Word": "oman",
+        "Word": "rom\u00eania",
         "Index": 111
     },
     {
-        "Word": "cuba",
+        "Word": "mato grosso do sul",
         "Index": 112
     },
     {
-        "Word": "macao",
+        "Word": "maldivas",
         "Index": 113
     },
     {
-        "Word": "bosnia-herzegovina",
+        "Word": "estados unidos da america",
         "Index": 114
     },
     {
-        "Word": "bahrain",
+        "Word": "indonesia",
         "Index": 115
     },
     {
-        "Word": "thailand",
+        "Word": "porto nacional",
         "Index": 116
     },
     {
-        "Word": "colombia",
+        "Word": "torres",
         "Index": 117
     },
     {
-        "Word": "tanzania",
+        "Word": "alagoas",
         "Index": 118
     },
     {
-        "Word": "grenada",
+        "Word": "italia",
         "Index": 119
     },
     {
-        "Word": "kuwait",
+        "Word": "emirados arabes unidos",
         "Index": 120
     },
     {
-        "Word": "singapore",
+        "Word": "but\u00e3o",
         "Index": 121
     },
     {
-        "Word": "greece",
+        "Word": "turcomenist\u00e3o",
         "Index": 122
     },
     {
-        "Word": "vietnam",
+        "Word": "montenegro",
         "Index": 123
     },
     {
-        "Word": "haiti",
+        "Word": "uzbequist\u00e3o",
         "Index": 124
     },
     {
-        "Word": "guyana",
+        "Word": "chile",
         "Index": 125
     },
     {
-        "Word": "ecuador",
+        "Word": "chipre",
         "Index": 126
     },
     {
-        "Word": "seychelles",
+        "Word": "tonga",
         "Index": 127
     },
     {
-        "Word": "united states of america",
+        "Word": "piaui",
         "Index": 128
     },
     {
-        "Word": "afghanistan",
+        "Word": "japao",
         "Index": 129
     },
     {
-        "Word": "sao tome and principe",
+        "Word": "paises baixos",
         "Index": 130
     },
     {
-        "Word": "kyrgyzstan",
+        "Word": "croacia",
         "Index": 131
     },
     {
-        "Word": "algeria",
+        "Word": "rep\u00fablica dominicana",
         "Index": 132
     },
     {
-        "Word": "slovakia",
+        "Word": "reino unido",
         "Index": 133
     },
     {
-        "Word": "chad",
+        "Word": "colombia",
         "Index": 134
     },
     {
-        "Word": "wales",
+        "Word": "river gee",
         "Index": 135
     },
     {
-        "Word": "yemen",
+        "Word": "janda\u00edra2",
         "Index": 136
     },
     {
-        "Word": "bahamas",
+        "Word": "tocantins",
         "Index": 137
     },
     {
-        "Word": "marshall islands",
+        "Word": "georgia",
         "Index": 138
     },
     {
-        "Word": "honduras",
+        "Word": "africa do sul",
         "Index": 139
     },
     {
-        "Word": "taiwan",
+        "Word": "cazaquist\u00e3o",
         "Index": 140
     },
     {
-        "Word": "liechtenstein",
+        "Word": "m\u00f4naco",
         "Index": 141
     },
     {
-        "Word": "malta",
+        "Word": "tailandia",
         "Index": 142
     },
     {
-        "Word": "south sudan",
+        "Word": "chade",
         "Index": 143
     },
     {
-        "Word": "saudi arabia",
+        "Word": "irlanda",
         "Index": 144
     },
     {
-        "Word": "pakistan",
+        "Word": "taiwan",
         "Index": 145
     },
     {
-        "Word": "togo",
+        "Word": "costa rica",
         "Index": 146
     },
     {
-        "Word": "armenia",
+        "Word": "ecuador",
         "Index": 147
     },
     {
-        "Word": "japan",
+        "Word": "bahia",
         "Index": 148
     },
     {
-        "Word": "norway",
+        "Word": "uni\u00e3o sovi\u00e9tica",
         "Index": 149
     },
     {
-        "Word": "belarus",
+        "Word": "bol\u00edvia",
         "Index": 150
     },
     {
-        "Word": "tuvalu",
+        "Word": "austr\u00e1lia",
         "Index": 151
     },
     {
-        "Word": "venezuela",
+        "Word": "cuba",
         "Index": 152
     },
     {
-        "Word": "nicaragua",
+        "Word": "chinautla",
         "Index": 153
     },
     {
-        "Word": "united arab emirates",
+        "Word": "butia",
         "Index": 154
     },
     {
-        "Word": "vatican",
+        "Word": "ghana",
         "Index": 155
     },
     {
-        "Word": "ghana",
+        "Word": "arabia saudita",
         "Index": 156
     },
     {
-        "Word": "new zealand",
+        "Word": "irlanda do norte",
         "Index": 157
     },
     {
-        "Word": "united kingdom",
+        "Word": "zimbabue",
         "Index": 158
     },
     {
-        "Word": "mongolia",
+        "Word": "l\u00edbano",
         "Index": 159
     },
     {
-        "Word": "paraguay",
+        "Word": "congo",
         "Index": 160
     },
     {
-        "Word": "panama",
+        "Word": "siriguela",
         "Index": 161
     },
     {
-        "Word": "fiji",
+        "Word": "s\u00e3o paulo",
         "Index": 162
     },
     {
-        "Word": "el salvador",
+        "Word": "portugal",
         "Index": 163
     },
     {
-        "Word": "india",
+        "Word": "ruanda",
         "Index": 164
     },
     {
-        "Word": "comoros",
+        "Word": "lesoto",
         "Index": 165
     },
     {
-        "Word": "philippines",
+        "Word": "jardim de piranhas",
         "Index": 166
     },
     {
-        "Word": "slovenia",
+        "Word": "hyum",
         "Index": 167
     },
     {
-        "Word": "hong kong",
+        "Word": "zimb\u00e1bue",
         "Index": 168
     },
     {
-        "Word": "sweden",
+        "Word": "chipre do norte",
         "Index": 169
     },
     {
-        "Word": "south korea",
+        "Word": "camboja",
         "Index": 170
     },
     {
-        "Word": "saint lucia",
+        "Word": "bielorrussia sovietica",
         "Index": 171
     },
     {
-        "Word": "mexico",
+        "Word": "vietn\u00e3",
         "Index": 172
     },
     {
-        "Word": "barbados",
+        "Word": "moldavia sovietica",
         "Index": 173
     },
     {
-        "Word": "serbia",
+        "Word": "finlandia",
         "Index": 174
     },
     {
-        "Word": "spain",
+        "Word": "alb\u00e2nia",
         "Index": 175
     },
     {
-        "Word": "botswana",
+        "Word": "chapad\u00e3o do sul",
         "Index": 176
     },
     {
-        "Word": "luxembourg",
+        "Word": "monufia",
         "Index": 177
     },
     {
-        "Word": "sudan",
+        "Word": "guiana francesa",
         "Index": 178
     },
     {
-        "Word": "israel",
+        "Word": "india",
         "Index": 179
     },
     {
-        "Word": "nauru",
+        "Word": "suica",
         "Index": 180
     },
     {
-        "Word": "micronesia",
+        "Word": "bahrein",
         "Index": 181
     },
     {
-        "Word": "france",
+        "Word": "porto rico",
         "Index": 182
     },
     {
-        "Word": "san marino",
+        "Word": "imperio russo",
         "Index": 183
     },
     {
-        "Word": "suriname",
+        "Word": "imperio do brasil",
         "Index": 184
     },
     {
-        "Word": "portugal",
+        "Word": "\u00e1frica do sul",
         "Index": 185
     },
     {
-        "Word": "madagascar",
+        "Word": "gana",
         "Index": 186
     },
     {
-        "Word": "finland",
+        "Word": "finl\u00e2ndia",
         "Index": 187
     },
     {
-        "Word": "guinea-bissau",
+        "Word": "est\u00f4nia",
         "Index": 188
     },
     {
-        "Word": "azerbaijan",
+        "Word": "groel\u00e2ndia",
         "Index": 189
     },
     {
-        "Word": "eritrea",
+        "Word": "s\u00e3o jo\u00e3o do rio peixe",
         "Index": 190
     },
     {
-        "Word": "guatemala",
+        "Word": "bom jardim de goias",
         "Index": 191
     },
     {
-        "Word": "myanmar",
+        "Word": "saara ocidental",
         "Index": 192
     },
     {
-        "Word": "bhutan",
+        "Word": "maranh\u00e3o",
         "Index": 193
     },
     {
-        "Word": "andorra",
+        "Word": "somalil\u00e2ndia",
         "Index": 194
     },
     {
-        "Word": "rwanda",
+        "Word": "imperio austriaco",
         "Index": 195
     },
     {
-        "Word": "guinea",
+        "Word": "monaco",
         "Index": 196
     },
     {
-        "Word": "mauritania",
+        "Word": "bulg\u00e1ria",
         "Index": 197
     },
     {
-        "Word": "estonia",
+        "Word": "hungria",
         "Index": 198
     },
     {
-        "Word": "iceland",
+        "Word": "\u00edndia",
         "Index": 199
     },
     {
-        "Word": "australia",
+        "Word": "cro\u00e1cia",
         "Index": 200
+    },
+    {
+        "Word": "turkia",
+        "Index": 201
+    },
+    {
+        "Word": "noruega",
+        "Index": 202
+    },
+    {
+        "Word": "vietnam",
+        "Index": 203
+    },
+    {
+        "Word": "goianapolis",
+        "Index": 204
+    },
+    {
+        "Word": "derrfield",
+        "Index": 205
+    },
+    {
+        "Word": "nig\u00e9ria",
+        "Index": 206
+    },
+    {
+        "Word": "gab\u00e3o",
+        "Index": 207
+    },
+    {
+        "Word": "holanda",
+        "Index": 208
+    },
+    {
+        "Word": "ar\u00e1bia saudita",
+        "Index": 209
+    },
+    {
+        "Word": "cor\u00e9ia do norte",
+        "Index": 210
+    },
+    {
+        "Word": "costa do marfim",
+        "Index": 211
+    },
+    {
+        "Word": "malasia",
+        "Index": 212
+    },
+    {
+        "Word": "uzbequistao",
+        "Index": 213
+    },
+    {
+        "Word": "imperio italiano",
+        "Index": 214
+    },
+    {
+        "Word": "barbados",
+        "Index": 215
+    },
+    {
+        "Word": "rio grande do sul",
+        "Index": 216
+    },
+    {
+        "Word": "escocia",
+        "Index": 217
+    },
+    {
+        "Word": "pa\u00eds de gales",
+        "Index": 218
+    },
+    {
+        "Word": "iraque",
+        "Index": 219
+    },
+    {
+        "Word": "klukwan",
+        "Index": 220
+    },
+    {
+        "Word": "morro agudo de goias",
+        "Index": 221
+    },
+    {
+        "Word": "maur\u00edcio",
+        "Index": 222
+    },
+    {
+        "Word": "pais de gales",
+        "Index": 223
+    },
+    {
+        "Word": "s\u00e9rvia",
+        "Index": 224
+    },
+    {
+        "Word": "reino de portugal",
+        "Index": 225
+    },
+    {
+        "Word": "pa\u00edses baixos",
+        "Index": 226
+    },
+    {
+        "Word": "imperio alem\u00e3o",
+        "Index": 227
+    },
+    {
+        "Word": "imperio japones",
+        "Index": 228
+    },
+    {
+        "Word": "sergipe",
+        "Index": 229
+    },
+    {
+        "Word": "mambai",
+        "Index": 230
+    },
+    {
+        "Word": "morpar\u00e1",
+        "Index": 231
+    },
+    {
+        "Word": "m\u00e9xico",
+        "Index": 232
+    },
+    {
+        "Word": "mold\u00e1via",
+        "Index": 233
+    },
+    {
+        "Word": "granada",
+        "Index": 234
+    },
+    {
+        "Word": "mong\u00f3lia",
+        "Index": 235
+    },
+    {
+        "Word": "peru",
+        "Index": 236
+    },
+    {
+        "Word": "moldavia",
+        "Index": 237
+    },
+    {
+        "Word": "camaroes",
+        "Index": 238
+    },
+    {
+        "Word": "inglaterra",
+        "Index": 239
+    },
+    {
+        "Word": "palm bay",
+        "Index": 240
+    },
+    {
+        "Word": "nova veneza",
+        "Index": 241
+    },
+    {
+        "Word": "liechtenstein",
+        "Index": 242
+    },
+    {
+        "Word": "eslov\u00eania",
+        "Index": 243
+    },
+    {
+        "Word": "sui\u00e7a",
+        "Index": 244
+    },
+    {
+        "Word": "bulgaria",
+        "Index": 245
+    },
+    {
+        "Word": "cazaquistao",
+        "Index": 246
+    },
+    {
+        "Word": "vargem alta",
+        "Index": 247
+    },
+    {
+        "Word": "jongno",
+        "Index": 248
+    },
+    {
+        "Word": "arm\u00eania",
+        "Index": 249
+    },
+    {
+        "Word": "botswana",
+        "Index": 250
+    },
+    {
+        "Word": "jamaica",
+        "Index": 251
+    },
+    {
+        "Word": "l\u00edbia",
+        "Index": 252
+    },
+    {
+        "Word": "goias",
+        "Index": 253
+    },
+    {
+        "Word": "goi\u00e1s",
+        "Index": 254
+    },
+    {
+        "Word": "sudao",
+        "Index": 255
+    },
+    {
+        "Word": "kingdom of kakongo",
+        "Index": 256
+    },
+    {
+        "Word": "amman",
+        "Index": 257
+    },
+    {
+        "Word": "ilhas salom\u00e3o",
+        "Index": 258
+    },
+    {
+        "Word": "macedonia",
+        "Index": 259
+    },
+    {
+        "Word": "letonia",
+        "Index": 260
+    },
+    {
+        "Word": "nirgeria",
+        "Index": 261
+    },
+    {
+        "Word": "america dourada",
+        "Index": 262
+    },
+    {
+        "Word": "luxor",
+        "Index": 263
+    },
+    {
+        "Word": "vanuatu",
+        "Index": 264
+    },
+    {
+        "Word": "micron\u00e9sia",
+        "Index": 265
+    },
+    {
+        "Word": "kosovo",
+        "Index": 266
+    },
+    {
+        "Word": "bielorrussia",
+        "Index": 267
+    },
+    {
+        "Word": "republica tcheca",
+        "Index": 268
+    },
+    {
+        "Word": "ira",
+        "Index": 269
+    },
+    {
+        "Word": "let\u00f4nia",
+        "Index": 270
+    },
+    {
+        "Word": "r\u00fassia",
+        "Index": 271
+    },
+    {
+        "Word": "amazonas",
+        "Index": 272
+    },
+    {
+        "Word": "mirandiba",
+        "Index": 273
+    },
+    {
+        "Word": "cocalzinho de goias",
+        "Index": 274
+    },
+    {
+        "Word": "rio grande do norte",
+        "Index": 275
+    },
+    {
+        "Word": "palau",
+        "Index": 276
+    },
+    {
+        "Word": "palestina",
+        "Index": 277
+    },
+    {
+        "Word": "ibirapitanga",
+        "Index": 278
+    },
+    {
+        "Word": "provo",
+        "Index": 279
+    },
+    {
+        "Word": "tun\u00edsia",
+        "Index": 280
+    },
+    {
+        "Word": "gr\u00e9cia",
+        "Index": 281
+    },
+    {
+        "Word": "coreia do sul",
+        "Index": 282
+    },
+    {
+        "Word": "samoa",
+        "Index": 283
+    },
+    {
+        "Word": "vaticano",
+        "Index": 284
+    },
+    {
+        "Word": "acre",
+        "Index": 285
+    },
+    {
+        "Word": "candamo",
+        "Index": 286
+    },
+    {
+        "Word": "itatinga",
+        "Index": 287
+    },
+    {
+        "Word": "b\u00f3snia e herzegovina",
+        "Index": 288
+    },
+    {
+        "Word": "palmeiras",
+        "Index": 289
+    },
+    {
+        "Word": "malta",
+        "Index": 290
+    },
+    {
+        "Word": "i\u00eamen",
+        "Index": 291
+    },
+    {
+        "Word": "groelandia",
+        "Index": 292
+    },
+    {
+        "Word": "telha",
+        "Index": 293
+    },
+    {
+        "Word": "s\u00e3o gabriel",
+        "Index": 294
+    },
+    {
+        "Word": "jord\u00e2nia",
+        "Index": 295
+    },
+    {
+        "Word": "benim",
+        "Index": 296
+    },
+    {
+        "Word": "espirito santo",
+        "Index": 297
+    },
+    {
+        "Word": "tajiquist\u00e3o",
+        "Index": 298
+    },
+    {
+        "Word": "pol\u00f4nia",
+        "Index": 299
+    },
+    {
+        "Word": "beni suef",
+        "Index": 300
+    },
+    {
+        "Word": "janda\u00edra",
+        "Index": 301
+    },
+    {
+        "Word": "belize",
+        "Index": 302
+    },
+    {
+        "Word": "ilhas marshall",
+        "Index": 303
+    },
+    {
+        "Word": "niger",
+        "Index": 304
+    },
+    {
+        "Word": "cear\u00e1",
+        "Index": 305
+    },
+    {
+        "Word": "tupiram\u00e3",
+        "Index": 306
+    },
+    {
+        "Word": "br\u00e9c\u00e9",
+        "Index": 307
+    },
+    {
+        "Word": "uganda",
+        "Index": 308
+    },
+    {
+        "Word": "guatemala",
+        "Index": 309
+    },
+    {
+        "Word": "vasco",
+        "Index": 310
+    },
+    {
+        "Word": "quirgust\u00e3o sovietico",
+        "Index": 311
+    },
+    {
+        "Word": "eritreia",
+        "Index": 312
+    },
+    {
+        "Word": "uzbequistao sovietico",
+        "Index": 313
+    },
+    {
+        "Word": "islandia",
+        "Index": 314
+    },
+    {
+        "Word": "natonin",
+        "Index": 315
+    },
+    {
+        "Word": "bofete",
+        "Index": 316
+    },
+    {
+        "Word": "somalia",
+        "Index": 317
+    },
+    {
+        "Word": "iugoslavia",
+        "Index": 318
+    },
+    {
+        "Word": "isl\u00e2ndia",
+        "Index": 319
+    },
+    {
+        "Word": "tanz\u00e2nia",
+        "Index": 320
+    },
+    {
+        "Word": "fran\u00e7a livre",
+        "Index": 321
+    },
+    {
+        "Word": "lukh",
+        "Index": 322
+    },
+    {
+        "Word": "dobrus",
+        "Index": 323
+    },
+    {
+        "Word": "artsaque",
+        "Index": 324
+    },
+    {
+        "Word": "nova alian\u00e7a",
+        "Index": 325
+    },
+    {
+        "Word": "concei\u00e7\u00e3o do lago a\u00e7u",
+        "Index": 326
+    },
+    {
+        "Word": "lib\u00e9ria",
+        "Index": 327
+    },
+    {
+        "Word": "eslovaquia",
+        "Index": 328
+    },
+    {
+        "Word": "s\u00e3o crist\u00f3v\u00e3o",
+        "Index": 329
+    },
+    {
+        "Word": "eti\u00f3pia",
+        "Index": 330
+    },
+    {
+        "Word": "guam",
+        "Index": 331
+    },
+    {
+        "Word": "ilhas marianas do norte",
+        "Index": 332
+    },
+    {
+        "Word": "roraima",
+        "Index": 333
+    },
+    {
+        "Word": "acajutiba",
+        "Index": 334
+    },
+    {
+        "Word": "serra branca",
+        "Index": 335
+    },
+    {
+        "Word": "tail\u00e2ndia",
+        "Index": 336
+    },
+    {
+        "Word": "onu",
+        "Index": 337
+    },
+    {
+        "Word": "estonia",
+        "Index": 338
+    },
+    {
+        "Word": "sri lanka",
+        "Index": 339
+    },
+    {
+        "Word": "belarus",
+        "Index": 340
+    },
+    {
+        "Word": "ilha de men",
+        "Index": 341
+    },
+    {
+        "Word": "timor-leste",
+        "Index": 342
+    },
+    {
+        "Word": "el'ad",
+        "Index": 343
+    },
+    {
+        "Word": "feij\u00f3",
+        "Index": 344
+    },
+    {
+        "Word": "brunei",
+        "Index": 345
+    },
+    {
+        "Word": "su\u00e9cia",
+        "Index": 346
+    },
+    {
+        "Word": "ilhas faroe",
+        "Index": 347
+    },
+    {
+        "Word": "togo",
+        "Index": 348
+    },
+    {
+        "Word": "terras austrais e ant\u00e1rticas",
+        "Index": 349
+    },
+    {
+        "Word": "som\u00e1lia",
+        "Index": 350
+    },
+    {
+        "Word": "barein",
+        "Index": 351
+    },
+    {
+        "Word": "mali",
+        "Index": 352
+    },
+    {
+        "Word": "suazil\u00e2ndia",
+        "Index": 353
+    },
+    {
+        "Word": "sud\u00e3o",
+        "Index": 354
+    },
+    {
+        "Word": "chapad\u00e3o do c\u00e9u",
+        "Index": 355
+    },
+    {
+        "Word": "tupiramut\u00e3",
+        "Index": 356
+    },
+    {
+        "Word": "comores",
+        "Index": 357
+    },
+    {
+        "Word": "essuat\u00edni",
+        "Index": 358
+    },
+    {
+        "Word": "rep\u00fablica tcheca",
+        "Index": 359
+    },
+    {
+        "Word": "om\u00e3",
+        "Index": 360
+    },
+    {
+        "Word": "djibouti",
+        "Index": 361
+    },
+    {
+        "Word": "maurit\u00e2nia",
+        "Index": 362
+    },
+    {
+        "Word": "myanmar",
+        "Index": 363
+    },
+    {
+        "Word": "ant\u00edgua e barbuda",
+        "Index": 364
+    },
+    {
+        "Word": "suazilandia",
+        "Index": 365
+    },
+    {
+        "Word": "sud\u00e3o do sul",
+        "Index": 366
+    },
+    {
+        "Word": "ucr\u00e2nia",
+        "Index": 367
+    },
+    {
+        "Word": "oss\u00e9tia do sul",
+        "Index": 368
+    },
+    {
+        "Word": "guin\u00e9-bissau",
+        "Index": 369
+    },
+    {
+        "Word": "dominica",
+        "Index": 370
+    },
+    {
+        "Word": "burkina faso",
+        "Index": 371
+    },
+    {
+        "Word": "guiana",
+        "Index": 372
+    },
+    {
+        "Word": "s\u00e3o miguel do gostoso",
+        "Index": 373
+    },
+    {
+        "Word": "centenario",
+        "Index": 374
+    },
+    {
+        "Word": "hong kong",
+        "Index": 375
+    },
+    {
+        "Word": "nam\u00edbia",
+        "Index": 376
+    },
+    {
+        "Word": "let\u00f3nia",
+        "Index": 377
+    },
+    {
+        "Word": "estonia sovietica",
+        "Index": 378
+    },
+    {
+        "Word": "guin\u00e9 equatorial",
+        "Index": 379
+    },
+    {
+        "Word": "ge\u00f3rgia",
+        "Index": 380
+    },
+    {
+        "Word": "antarctica",
+        "Index": 381
+    },
+    {
+        "Word": "nauru",
+        "Index": 382
+    },
+    {
+        "Word": "nineveh",
+        "Index": 383
+    },
+    {
+        "Word": "maravilha",
+        "Index": 384
+    },
+    {
+        "Word": "s\u00e3o crist\u00f3v\u00e3o e neves",
+        "Index": 385
+    },
+    {
+        "Word": "mayotte",
+        "Index": 386
+    },
+    {
+        "Word": "santa lucia",
+        "Index": 387
+    },
+    {
+        "Word": "serra leoa",
+        "Index": 388
+    },
+    {
+        "Word": "ir\u00e3",
+        "Index": 389
+    },
+    {
+        "Word": "bielorr\u00fassia",
+        "Index": 390
+    },
+    {
+        "Word": "alfredo chaves",
+        "Index": 391
+    },
+    {
+        "Word": "sunyer",
+        "Index": 392
+    },
+    {
+        "Word": "sao vicente e granadinas",
+        "Index": 393
+    },
+    {
+        "Word": "aruba",
+        "Index": 394
+    },
+    {
+        "Word": "lituania",
+        "Index": 395
+    },
+    {
+        "Word": "guin\u00e9-equatorial",
+        "Index": 396
+    },
+    {
+        "Word": "eslovenia",
+        "Index": 397
+    },
+    {
+        "Word": "fiji",
+        "Index": 398
+    },
+    {
+        "Word": "assis brasil",
+        "Index": 399
+    },
+    {
+        "Word": "aratuipe",
+        "Index": 400
+    },
+    {
+        "Word": "libia",
+        "Index": 401
+    },
+    {
+        "Word": "imperio espanhol",
+        "Index": 402
+    },
+    {
+        "Word": "russia sovietica",
+        "Index": 403
+    },
+    {
+        "Word": "maced\u00f4nia do norte",
+        "Index": 404
+    },
+    {
+        "Word": "prussia",
+        "Index": 405
+    },
+    {
+        "Word": "z\u00e2mbia",
+        "Index": 406
+    },
+    {
+        "Word": "emirados \u00e1rabes unidos",
+        "Index": 407
+    },
+    {
+        "Word": "grand kru",
+        "Index": 408
+    },
+    {
+        "Word": "itatim",
+        "Index": 409
+    },
+    {
+        "Word": "mauricia",
+        "Index": 410
+    },
+    {
+        "Word": "ilhas caymann",
+        "Index": 411
+    },
+    {
+        "Word": "argelia",
+        "Index": 412
+    },
+    {
+        "Word": "rep\u00fablica do congo",
+        "Index": 413
+    },
+    {
+        "Word": "lotoshino",
+        "Index": 414
+    },
+    {
+        "Word": "monkton",
+        "Index": 415
+    },
+    {
+        "Word": "bur\u00fandi",
+        "Index": 416
+    },
+    {
+        "Word": "tanzania",
+        "Index": 417
+    },
+    {
+        "Word": "mianmar",
+        "Index": 418
+    },
+    {
+        "Word": "alemanha ocidental",
+        "Index": 419
+    },
+    {
+        "Word": "eslov\u00e1quia",
+        "Index": 420
+    },
+    {
+        "Word": "eau",
+        "Index": 421
+    },
+    {
+        "Word": "parana",
+        "Index": 422
+    },
+    {
+        "Word": "maced\u00f4nia",
+        "Index": 423
+    },
+    {
+        "Word": "malau\u00ed",
+        "Index": 424
+    },
+    {
+        "Word": "praia",
+        "Index": 425
+    },
+    {
+        "Word": "krasikov",
+        "Index": 426
+    },
+    {
+        "Word": "djibuti",
+        "Index": 427
+    },
+    {
+        "Word": "guin\u00e9",
+        "Index": 428
+    },
+    {
+        "Word": "nicar\u00e1gua",
+        "Index": 429
+    },
+    {
+        "Word": "amsterd\u00e3",
+        "Index": 430
+    },
+    {
+        "Word": "le bono",
+        "Index": 431
+    },
+    {
+        "Word": "guin\u00e9 bissau",
+        "Index": 432
+    },
+    {
+        "Word": "samoa americana",
+        "Index": 433
+    },
+    {
+        "Word": "s\u00edria",
+        "Index": 434
+    },
+    {
+        "Word": "gambia",
+        "Index": 435
+    },
+    {
+        "Word": "gibraltar",
+        "Index": 436
+    },
+    {
+        "Word": "ilhas feroe",
+        "Index": 437
+    },
+    {
+        "Word": "solikamsk",
+        "Index": 438
+    },
+    {
+        "Word": "lofa",
+        "Index": 439
+    },
+    {
+        "Word": "trinidad e tobago",
+        "Index": 440
+    },
+    {
+        "Word": "zambia",
+        "Index": 441
+    },
+    {
+        "Word": "geneseo",
+        "Index": 442
+    },
+    {
+        "Word": "itabaiana",
+        "Index": 443
+    },
+    {
+        "Word": "laos",
+        "Index": 444
+    },
+    {
+        "Word": "ilhas malvinas",
+        "Index": 445
+    },
+    {
+        "Word": "georgia sovietica",
+        "Index": 446
+    },
+    {
+        "Word": "itacoatiara",
+        "Index": 447
+    },
+    {
+        "Word": "s\u00e3o salvador do tocantins",
+        "Index": 448
+    },
+    {
+        "Word": "mauritania",
+        "Index": 449
+    },
+    {
+        "Word": "burundi",
+        "Index": 450
+    },
+    {
+        "Word": "s\u00e3o tom\u00e9 e pr\u00edncipe",
+        "Index": 451
+    },
+    {
+        "Word": "afeganistao",
+        "Index": 452
+    },
+    {
+        "Word": "albania",
+        "Index": 453
+    },
+    {
+        "Word": "lituania sovietica",
+        "Index": 454
+    },
+    {
+        "Word": "camar\u00f5es",
+        "Index": 455
+    },
+    {
+        "Word": "santa tereza do tocantins",
+        "Index": 456
+    },
+    {
+        "Word": "little havana",
+        "Index": 457
+    },
+    {
+        "Word": "ilhas virgens americanas",
+        "Index": 458
+    },
+    {
+        "Word": "ilhas virgens britanicas",
+        "Index": 459
+    },
+    {
+        "Word": "ipupiara",
+        "Index": 460
+    },
+    {
+        "Word": "tokelau",
+        "Index": 461
+    },
+    {
+        "Word": "martinica",
+        "Index": 462
+    },
+    {
+        "Word": "niue",
+        "Index": 463
+    },
+    {
+        "Word": "janda\u00edra3",
+        "Index": 464
+    },
+    {
+        "Word": "ilhas cook",
+        "Index": 465
+    },
+    {
+        "Word": "quiribati",
+        "Index": 466
+    },
+    {
+        "Word": "iemen",
+        "Index": 467
+    },
+    {
+        "Word": "seychelles",
+        "Index": 468
+    },
+    {
+        "Word": "bel\u00e9m do s\u00e3o francisco",
+        "Index": 469
+    },
+    {
+        "Word": "transn\u00edstria",
+        "Index": 470
+    },
+    {
+        "Word": "iugosl\u00e1via",
+        "Index": 471
+    },
+    {
+        "Word": "amap\u00e1",
+        "Index": 472
+    },
+    {
+        "Word": "taperoa",
+        "Index": 473
+    },
+    {
+        "Word": "papua nova guin\u00e9",
+        "Index": 474
+    },
+    {
+        "Word": "cor\u00e9ia do sul",
+        "Index": 475
+    },
+    {
+        "Word": "bosnia e herzegovina",
+        "Index": 476
+    },
+    {
+        "Word": "montserrat",
+        "Index": 477
+    },
+    {
+        "Word": "timor leste",
+        "Index": 478
+    },
+    {
+        "Word": "qu\u00e9nia",
+        "Index": 479
+    },
+    {
+        "Word": "letonia sovietica",
+        "Index": 480
+    },
+    {
+        "Word": "qu\u00eania",
+        "Index": 481
+    },
+    {
+        "Word": "imperio otomano",
+        "Index": 482
+    },
+    {
+        "Word": "macau",
+        "Index": 483
+    },
+    {
+        "Word": "tandil",
+        "Index": 484
+    },
+    {
+        "Word": "ilhas christmas",
+        "Index": 485
+    },
+    {
+        "Word": "ilhas aland",
+        "Index": 486
+    },
+    {
+        "Word": "ant\u00e1rtida",
+        "Index": 487
+    },
+    {
+        "Word": "cura\u00e7\u00e3o",
+        "Index": 488
+    },
+    {
+        "Word": "s\u00e3o tom\u00e9 e principe",
+        "Index": 489
+    },
+    {
+        "Word": "\u00e1ustria",
+        "Index": 490
+    },
+    {
+        "Word": "paran\u00e1",
+        "Index": 491
+    },
+    {
+        "Word": "lake sebu",
+        "Index": 492
+    },
+    {
+        "Word": "antigua e barbuda",
+        "Index": 493
+    },
+    {
+        "Word": "japura",
+        "Index": 494
+    },
+    {
+        "Word": "caroebe",
+        "Index": 495
+    },
+    {
+        "Word": "pol\u00f3nia",
+        "Index": 496
+    },
+    {
+        "Word": "campina verde",
+        "Index": 497
+    },
+    {
+        "Word": "baliza",
+        "Index": 498
+    },
+    {
+        "Word": "guine bissau",
+        "Index": 499
+    },
+    {
+        "Word": "i\u00e9men",
+        "Index": 500
+    },
+    {
+        "Word": "kuweit",
+        "Index": 501
     }
 ]
