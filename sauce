@@ -1,0 +1,802 @@
+[
+    {
+        "Word": "latvia",
+        "Index": 1
+    },
+    {
+        "Word": "burundi",
+        "Index": 2
+    },
+    {
+        "Word": "russia",
+        "Index": 3
+    },
+    {
+        "Word": "mali",
+        "Index": 4
+    },
+    {
+        "Word": "libya",
+        "Index": 5
+    },
+    {
+        "Word": "albania",
+        "Index": 6
+    },
+    {
+        "Word": "bermuda",
+        "Index": 7
+    },
+    {
+        "Word": "malaysia",
+        "Index": 8
+    },
+    {
+        "Word": "trinidad and tobago",
+        "Index": 9
+    },
+    {
+        "Word": "eswatini",
+        "Index": 10
+    },
+    {
+        "Word": "kazakhstan",
+        "Index": 11
+    },
+    {
+        "Word": "georgia",
+        "Index": 12
+    },
+    {
+        "Word": "dominica",
+        "Index": 13
+    },
+    {
+        "Word": "chile",
+        "Index": 14
+    },
+    {
+        "Word": "antigua and barbuda",
+        "Index": 15
+    },
+    {
+        "Word": "bulgaria",
+        "Index": 16
+    },
+    {
+        "Word": "zambia",
+        "Index": 17
+    },
+    {
+        "Word": "bolivia",
+        "Index": 18
+    },
+    {
+        "Word": "lithuania",
+        "Index": 19
+    },
+    {
+        "Word": "macedonia",
+        "Index": 20
+    },
+    {
+        "Word": "syria",
+        "Index": 21
+    },
+    {
+        "Word": "jamaica",
+        "Index": 22
+    },
+    {
+        "Word": "gabon",
+        "Index": 23
+    },
+    {
+        "Word": "palau",
+        "Index": 24
+    },
+    {
+        "Word": "papua new guinea",
+        "Index": 25
+    },
+    {
+        "Word": "dominican republic",
+        "Index": 26
+    },
+    {
+        "Word": "morocco",
+        "Index": 27
+    },
+    {
+        "Word": "cameroon",
+        "Index": 28
+    },
+    {
+        "Word": "niger",
+        "Index": 29
+    },
+    {
+        "Word": "hungary",
+        "Index": 30
+    },
+    {
+        "Word": "ukraine",
+        "Index": 31
+    },
+    {
+        "Word": "belgium",
+        "Index": 32
+    },
+    {
+        "Word": "china",
+        "Index": 33
+    },
+    {
+        "Word": "canada",
+        "Index": 34
+    },
+    {
+        "Word": "south africa",
+        "Index": 35
+    },
+    {
+        "Word": "solomon islands",
+        "Index": 36
+    },
+    {
+        "Word": "denmark",
+        "Index": 37
+    },
+    {
+        "Word": "peru",
+        "Index": 38
+    },
+    {
+        "Word": "lebanon",
+        "Index": 39
+    },
+    {
+        "Word": "kiribati",
+        "Index": 40
+    },
+    {
+        "Word": "belize",
+        "Index": 41
+    },
+    {
+        "Word": "costa rica",
+        "Index": 42
+    },
+    {
+        "Word": "burkina faso",
+        "Index": 43
+    },
+    {
+        "Word": "central african republic",
+        "Index": 44
+    },
+    {
+        "Word": "saint vincent and the grenadines",
+        "Index": 45
+    },
+    {
+        "Word": "germany",
+        "Index": 46
+    },
+    {
+        "Word": "ivory coast",
+        "Index": 47
+    },
+    {
+        "Word": "cape verde",
+        "Index": 48
+    },
+    {
+        "Word": "gambia",
+        "Index": 49
+    },
+    {
+        "Word": "italy",
+        "Index": 50
+    },
+    {
+        "Word": "ireland",
+        "Index": 51
+    },
+    {
+        "Word": "qatar",
+        "Index": 52
+    },
+    {
+        "Word": "iran",
+        "Index": 53
+    },
+    {
+        "Word": "uzbekistan",
+        "Index": 54
+    },
+    {
+        "Word": "scotland",
+        "Index": 55
+    },
+    {
+        "Word": "tunisia",
+        "Index": 56
+    },
+    {
+        "Word": "mozambique",
+        "Index": 57
+    },
+    {
+        "Word": "argentina",
+        "Index": 58
+    },
+    {
+        "Word": "austria",
+        "Index": 59
+    },
+    {
+        "Word": "iraq",
+        "Index": 60
+    },
+    {
+        "Word": "mauritius",
+        "Index": 61
+    },
+    {
+        "Word": "monaco",
+        "Index": 62
+    },
+    {
+        "Word": "switzerland",
+        "Index": 63
+    },
+    {
+        "Word": "uruguay",
+        "Index": 64
+    },
+    {
+        "Word": "sri lanka",
+        "Index": 65
+    },
+    {
+        "Word": "senegal",
+        "Index": 66
+    },
+    {
+        "Word": "england",
+        "Index": 67
+    },
+    {
+        "Word": "nepal",
+        "Index": 68
+    },
+    {
+        "Word": "cambodia",
+        "Index": 69
+    },
+    {
+        "Word": "samoa",
+        "Index": 70
+    },
+    {
+        "Word": "turkmenistan",
+        "Index": 71
+    },
+    {
+        "Word": "equatorial guinea",
+        "Index": 72
+    },
+    {
+        "Word": "jordan",
+        "Index": 73
+    },
+    {
+        "Word": "liberia",
+        "Index": 74
+    },
+    {
+        "Word": "indonesia",
+        "Index": 75
+    },
+    {
+        "Word": "brazil",
+        "Index": 76
+    },
+    {
+        "Word": "maldives",
+        "Index": 77
+    },
+    {
+        "Word": "timor-leste",
+        "Index": 78
+    },
+    {
+        "Word": "sierra leone",
+        "Index": 79
+    },
+    {
+        "Word": "croatia",
+        "Index": 80
+    },
+    {
+        "Word": "kenya",
+        "Index": 81
+    },
+    {
+        "Word": "laos",
+        "Index": 82
+    },
+    {
+        "Word": "congo",
+        "Index": 83
+    },
+    {
+        "Word": "netherlands",
+        "Index": 84
+    },
+    {
+        "Word": "malawi",
+        "Index": 85
+    },
+    {
+        "Word": "poland",
+        "Index": 86
+    },
+    {
+        "Word": "montenegro",
+        "Index": 87
+    },
+    {
+        "Word": "benin",
+        "Index": 88
+    },
+    {
+        "Word": "brunei",
+        "Index": 89
+    },
+    {
+        "Word": "somalia",
+        "Index": 90
+    },
+    {
+        "Word": "namibia",
+        "Index": 91
+    },
+    {
+        "Word": "uganda",
+        "Index": 92
+    },
+    {
+        "Word": "djibouti",
+        "Index": 93
+    },
+    {
+        "Word": "north korea",
+        "Index": 94
+    },
+    {
+        "Word": "tonga",
+        "Index": 95
+    },
+    {
+        "Word": "turkey",
+        "Index": 96
+    },
+    {
+        "Word": "ethiopia",
+        "Index": 97
+    },
+    {
+        "Word": "cyprus",
+        "Index": 98
+    },
+    {
+        "Word": "angola",
+        "Index": 99
+    },
+    {
+        "Word": "lesotho",
+        "Index": 100
+    },
+    {
+        "Word": "moldova",
+        "Index": 101
+    },
+    {
+        "Word": "nigeria",
+        "Index": 102
+    },
+    {
+        "Word": "bangladesh",
+        "Index": 103
+    },
+    {
+        "Word": "vanuatu",
+        "Index": 104
+    },
+    {
+        "Word": "czech republic",
+        "Index": 105
+    },
+    {
+        "Word": "romania",
+        "Index": 106
+    },
+    {
+        "Word": "tajikistan",
+        "Index": 107
+    },
+    {
+        "Word": "zimbabwe",
+        "Index": 108
+    },
+    {
+        "Word": "egypt",
+        "Index": 109
+    },
+    {
+        "Word": "saint kitts and nevis",
+        "Index": 110
+    },
+    {
+        "Word": "oman",
+        "Index": 111
+    },
+    {
+        "Word": "cuba",
+        "Index": 112
+    },
+    {
+        "Word": "macao",
+        "Index": 113
+    },
+    {
+        "Word": "bosnia-herzegovina",
+        "Index": 114
+    },
+    {
+        "Word": "bahrain",
+        "Index": 115
+    },
+    {
+        "Word": "thailand",
+        "Index": 116
+    },
+    {
+        "Word": "colombia",
+        "Index": 117
+    },
+    {
+        "Word": "tanzania",
+        "Index": 118
+    },
+    {
+        "Word": "grenada",
+        "Index": 119
+    },
+    {
+        "Word": "kuwait",
+        "Index": 120
+    },
+    {
+        "Word": "singapore",
+        "Index": 121
+    },
+    {
+        "Word": "greece",
+        "Index": 122
+    },
+    {
+        "Word": "vietnam",
+        "Index": 123
+    },
+    {
+        "Word": "haiti",
+        "Index": 124
+    },
+    {
+        "Word": "guyana",
+        "Index": 125
+    },
+    {
+        "Word": "ecuador",
+        "Index": 126
+    },
+    {
+        "Word": "seychelles",
+        "Index": 127
+    },
+    {
+        "Word": "united states of america",
+        "Index": 128
+    },
+    {
+        "Word": "afghanistan",
+        "Index": 129
+    },
+    {
+        "Word": "sao tome and principe",
+        "Index": 130
+    },
+    {
+        "Word": "kyrgyzstan",
+        "Index": 131
+    },
+    {
+        "Word": "algeria",
+        "Index": 132
+    },
+    {
+        "Word": "slovakia",
+        "Index": 133
+    },
+    {
+        "Word": "chad",
+        "Index": 134
+    },
+    {
+        "Word": "wales",
+        "Index": 135
+    },
+    {
+        "Word": "yemen",
+        "Index": 136
+    },
+    {
+        "Word": "bahamas",
+        "Index": 137
+    },
+    {
+        "Word": "marshall islands",
+        "Index": 138
+    },
+    {
+        "Word": "honduras",
+        "Index": 139
+    },
+    {
+        "Word": "taiwan",
+        "Index": 140
+    },
+    {
+        "Word": "liechtenstein",
+        "Index": 141
+    },
+    {
+        "Word": "malta",
+        "Index": 142
+    },
+    {
+        "Word": "south sudan",
+        "Index": 143
+    },
+    {
+        "Word": "saudi arabia",
+        "Index": 144
+    },
+    {
+        "Word": "pakistan",
+        "Index": 145
+    },
+    {
+        "Word": "togo",
+        "Index": 146
+    },
+    {
+        "Word": "armenia",
+        "Index": 147
+    },
+    {
+        "Word": "japan",
+        "Index": 148
+    },
+    {
+        "Word": "norway",
+        "Index": 149
+    },
+    {
+        "Word": "belarus",
+        "Index": 150
+    },
+    {
+        "Word": "tuvalu",
+        "Index": 151
+    },
+    {
+        "Word": "venezuela",
+        "Index": 152
+    },
+    {
+        "Word": "nicaragua",
+        "Index": 153
+    },
+    {
+        "Word": "united arab emirates",
+        "Index": 154
+    },
+    {
+        "Word": "vatican",
+        "Index": 155
+    },
+    {
+        "Word": "ghana",
+        "Index": 156
+    },
+    {
+        "Word": "new zealand",
+        "Index": 157
+    },
+    {
+        "Word": "united kingdom",
+        "Index": 158
+    },
+    {
+        "Word": "mongolia",
+        "Index": 159
+    },
+    {
+        "Word": "paraguay",
+        "Index": 160
+    },
+    {
+        "Word": "panama",
+        "Index": 161
+    },
+    {
+        "Word": "fiji",
+        "Index": 162
+    },
+    {
+        "Word": "el salvador",
+        "Index": 163
+    },
+    {
+        "Word": "india",
+        "Index": 164
+    },
+    {
+        "Word": "comoros",
+        "Index": 165
+    },
+    {
+        "Word": "philippines",
+        "Index": 166
+    },
+    {
+        "Word": "slovenia",
+        "Index": 167
+    },
+    {
+        "Word": "hong kong",
+        "Index": 168
+    },
+    {
+        "Word": "sweden",
+        "Index": 169
+    },
+    {
+        "Word": "south korea",
+        "Index": 170
+    },
+    {
+        "Word": "saint lucia",
+        "Index": 171
+    },
+    {
+        "Word": "mexico",
+        "Index": 172
+    },
+    {
+        "Word": "barbados",
+        "Index": 173
+    },
+    {
+        "Word": "serbia",
+        "Index": 174
+    },
+    {
+        "Word": "spain",
+        "Index": 175
+    },
+    {
+        "Word": "botswana",
+        "Index": 176
+    },
+    {
+        "Word": "luxembourg",
+        "Index": 177
+    },
+    {
+        "Word": "sudan",
+        "Index": 178
+    },
+    {
+        "Word": "israel",
+        "Index": 179
+    },
+    {
+        "Word": "nauru",
+        "Index": 180
+    },
+    {
+        "Word": "micronesia",
+        "Index": 181
+    },
+    {
+        "Word": "france",
+        "Index": 182
+    },
+    {
+        "Word": "san marino",
+        "Index": 183
+    },
+    {
+        "Word": "suriname",
+        "Index": 184
+    },
+    {
+        "Word": "portugal",
+        "Index": 185
+    },
+    {
+        "Word": "madagascar",
+        "Index": 186
+    },
+    {
+        "Word": "finland",
+        "Index": 187
+    },
+    {
+        "Word": "guinea-bissau",
+        "Index": 188
+    },
+    {
+        "Word": "azerbaijan",
+        "Index": 189
+    },
+    {
+        "Word": "eritrea",
+        "Index": 190
+    },
+    {
+        "Word": "guatemala",
+        "Index": 191
+    },
+    {
+        "Word": "myanmar",
+        "Index": 192
+    },
+    {
+        "Word": "bhutan",
+        "Index": 193
+    },
+    {
+        "Word": "andorra",
+        "Index": 194
+    },
+    {
+        "Word": "rwanda",
+        "Index": 195
+    },
+    {
+        "Word": "guinea",
+        "Index": 196
+    },
+    {
+        "Word": "mauritania",
+        "Index": 197
+    },
+    {
+        "Word": "estonia",
+        "Index": 198
+    },
+    {
+        "Word": "iceland",
+        "Index": 199
+    },
+    {
+        "Word": "australia",
+        "Index": 200
+    }
+]
